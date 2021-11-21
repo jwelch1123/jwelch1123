@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 ## Summary
-Data science problem solver bringing an analytical perspective honed in the biotechnology industry. Experience developing personal and company-scale tools and databases to aid the translation of complex multi-source data into actionable results. Expertise in pre- and post-experiment statistics, design of experiments, molecular biology, and process development. Skilled in scientific communication, data presentation, and converting company-wide goals into specific questions and actionable experiments. Inquisitive, analytical, innovative, 
+Data science problem solver bringing an analytical perspective honed in the biotechnology industry. Experience developing personal and company-scale tools and databases to aid the translation of complex multi-source data into actionable results. Expertise in pre- and post-experiment statistics, design of experiments, molecular biology, and process development. Skilled in scientific communication, data presentation, and converting company-wide goals into specific questions and actionable experiments. Inquisitive, analytical, innovative.
 
 ## Connect with me
 
