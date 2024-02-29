@@ -7,7 +7,7 @@ Data science problem solver bringing an analytical perspective honed in the biot
 
 [LinkedIn](https://www.linkedin.com/in/james-e-welch/)
 
-[Data Science Project Portfolio](https://nycdatascience.com/blog/author/james-welch/)
+[NYC Data Science Academy Project Portfolio](https://nycdatascience.com/blog/author/james-welch/)
 
 ## Notable Projects
 1. **Fraud Detection in Medicare Claims Data** - [Article](https://nycdatascience.com/blog/student-works/detecting-the-red-flags-of-medicare-fraud/) - [Presentation](https://youtu.be/eo83e13ka94?t=1886) - [Repository](https://github.com/jwelch1123/healthcare_fraud_detection)
