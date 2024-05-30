@@ -26,7 +26,7 @@ Data science problem solver bringing an analytical perspective honed in the biot
     - The Dash App provides two interfaces: "pick-and-choose" for manual selection and "auto-solver" for automatic playlist creation. The playlistr.py file can also be run locally but requires Spotify App credentials.
 
 4. **Daylist Album Art Generator:** - [Repository](https://github.com/jwelch1123/daylist-album-art) - [Web App](https://daylist-album-art-78ef6f049b28.herokuapp.com/)
-    - ![Static Badge](https://img.shields.io/badge/Python-gray?logo=Python) ![Static Badge](https://img.shields.io/badge/Spotify%20API-gray?logo=Spotify) ![Static Badge](https://img.shields.io/badge/OpenAI-grey?logo=openai) ![Static Badge](https://img.shields.io/badge/Dash-grey?logo=plotly)
+    - ![Static Badge](https://img.shields.io/badge/Python-gray?logo=Python) ![Static Badge](https://img.shields.io/badge/Spotify%20API-gray?logo=Spotify) ![Static Badge](https://img.shields.io/badge/OpenAI%20API-grey?logo=openai) ![Static Badge](https://img.shields.io/badge/Dash-grey?logo=plotly)
     - Uses the Spotify and OpenAI API to get the daylist playlist title and description and uses that text to generate album art.
     - The Dash App provides a way for the user to authenticate their Spotify account and view and download the album art.
 
